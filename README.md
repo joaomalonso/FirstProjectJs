@@ -1,5 +1,5 @@
 # FirstProjectJs
-Meu primeiro projeto utilizando JS criando jogo Pong tanto singleplayer quanto multiplayer.
+Meu primeiro projeto utilizando JS criando jogo Pong tanto singleplayer quanto multiplayer. 🏓
 
 Vídeo do jogo em funcionamento (Ative o som do vídeo):
 
