@@ -7,6 +7,8 @@ https://github.com/joaomalonso/FirstProjectJs/assets/133373441/186a7dd2-3c18-432
 
 Todo o código já esta com fatoramento e descrição de cada parte para facilitar a leitura. 
 
+Para jogar, basta acessar o link do site: https://joaomalonso.github.io/FirstProjectJs/
+
 Espero que gostem! :D 
 
 Aceito dicas e melhorias! 
